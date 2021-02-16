@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I and my friend [Risabh Singh](https://github.com/mindninjaX) have taken challenge of 100DaysofCode to code each and every day. 
+I and my friend [Rishabh Singh](https://github.com/mindninjaX) have taken challenge of 100DaysofCode to code each and every day. 
 
 ## What we are learning and developing?
 
