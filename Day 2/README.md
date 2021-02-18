@@ -1,4 +1,4 @@
-# Day 1 of 100DaysofCode
+# Day 2 of 100DaysofCode
 
 ## What I learned?
 
