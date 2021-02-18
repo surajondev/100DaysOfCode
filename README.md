@@ -9,3 +9,7 @@ I and my friend [Rishabh Singh](https://github.com/mindninjaX) have taken challe
 We are learning Web Development from Beginners to Mastery level. We both are quite comfortable with development to intermediate level but 
 we have started to learn from very basic to understand each and every inside of Web Development.
 
+## Projects
+
+Check the [100DaysOfCode](https://surajondev.github.io/100DaysOfCode/) website for 
+projects, I am developing.
