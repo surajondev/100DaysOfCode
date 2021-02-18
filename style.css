@@ -1,0 +1,49 @@
+body {
+    margin :0 auto;
+    padding :0;
+    font-family: Verdana;
+    background:rgba(0, 0, 0, 0.05);
+}
+
+.container-pro{
+    display: flex;
+    flex-direction: column;
+    margin-top:2em
+
+}
+
+header{
+    background-color: lightpink;
+    padding: 1em;
+    color: white;
+}
+
+@media  (min-width: 785px) {
+
+    .container-pro{
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+  }
+
+h1, p{
+    text-align : center;
+}
+
+
+button {
+    display: block;
+    margin : 1em auto;
+}
+
+.btn{
+    background-image : linear-gradient(to right, purple,  blue);
+    color : white;
+    padding : 0.2rem 2rem;
+    font-size : 1.5em;
+    border : none;
+    border-radius : 6rem;
+    box-shadow : 0 0.4rem 0.5rem rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
