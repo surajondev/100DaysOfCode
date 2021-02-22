@@ -1,4 +1,4 @@
-# Day 5 of 100DaysofCode
+# Day 6 of 100DaysofCode
 
 ## What I learned?
 
