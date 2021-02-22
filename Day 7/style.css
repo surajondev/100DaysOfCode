@@ -15,9 +15,9 @@ header{
 }
 
 main{
-    text-align: center;
     background-color: #F1F1F1;
     margin: 1em auto;
+    text-align: center;
     width: 80%;
     font-family: Verdana;
     height: 37vh;
