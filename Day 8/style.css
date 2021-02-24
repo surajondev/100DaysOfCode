@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F1F1F1;
+}
+
+header{
+    background-color: #4CAF50;
+    text-align: center;
+    padding: 24px;
+    font-family: Segoe UI;
+}
+
+main{
+    background-color: #F1F1F1;
+    margin: 1em auto;
+    text-align: center;
+    width: 80%;
+    font-family: Verdana;
+    height: 37vh;
+}
+
+input{
+    margin:1em 0;
+    border: none;
+    padding: 0.5em;
+    text-align: center;
+    border-radius: 1em;
+}
+
+button{
+    padding: 0.5em;
+    border: none;
+    background-color: #4CAF50;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: large;
+    border-radius: 1em;
+}
+
+button:hover{
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+}
+
+
+li{
+    list-style: none;
+    list-style-type: "♥ ";
+}
