@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    line-height: 2.5em;
+    background: linear-gradient(to right, red, yellow);
+}
+
+h2, h1{
+    font-family: Iron Fist;
+    text-transform: uppercase;
+    letter-spacing: 0.5em; 
+}
+
+h3{
+    color : white;
+    font-family: sans-serif;
+}
+
+input{
+    border: none;
+}
+
